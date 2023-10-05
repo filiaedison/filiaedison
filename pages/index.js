@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Head from "next/head";
 import Image from "next/image";
 import { Inter } from "next/font/google";
-import logo from "../public/img/logo.png";
+import logo from "../public/img/logo-new.png";
 
 const inter = Inter({ subsets: ["latin"] });
 
